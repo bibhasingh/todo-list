@@ -1,0 +1,28 @@
+.container {
+  width: 800px;
+  height: 800px;
+  margin: 60px auto;
+  background-color: rgb(123, 125, 93);
+  overflow: auto;
+}
+
+.small-container {
+  width: 400px;
+  background-color: aquamarine;
+  margin: 25% auto;
+  height: 400px;
+}
+
+.heading {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.name-list {
+  margin-left: 80px;
+}
+
+.adding {
+  cursor: pointer;
+}
